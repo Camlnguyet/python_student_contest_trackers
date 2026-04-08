@@ -56,6 +56,7 @@ streamlit run app.py
 - API docs: http://localhost:8000/docs
 
 ## 📁 Project Structure
+```
 student_tracker/
 ├── main.py          # FastAPI endpoints
 ├── database.py      # SQLite setup & connection
@@ -63,6 +64,7 @@ student_tracker/
 ├── analytics.py     # Pandas & Plotly logic
 ├── app.py           # Streamlit UI
 └── requirements.txt
+```
 
 ## 👨‍💻 Author
 Built as a portfolio project for MGM Technology Partners internship application.
